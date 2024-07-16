@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import DISABLED, ttk, NORMAL, E
 from tkinter.filedialog import askopenfilename
-from typing import Optional
 
 from State import State
 

@@ -2,3 +2,4 @@ expeditionoverlay
 .env
 ExpeditionOverlay.iml
 .idea
+**/__pycache__/**
